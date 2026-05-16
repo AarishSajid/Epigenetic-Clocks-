@@ -7,6 +7,8 @@
 
 This project benchmarks **14 epigenetic aging clocks** against two public GEO datasets (GSE40279, GSE41169), quantifying how well DNA-methylation-based models predict chronological age. A companion WGBS pipeline processes raw bisulfite-sequencing reads through alignment, methylation extraction, and DMR detection across seven breast-tissue methylomes.
 
+NOTEBOOK LINK: https://colab.research.google.com/drive/1DLu-jSHZPHpNobYkHbcPT7Z6PN-0GRt8?usp=sharing
+
 ---
 
 ## Project Structure
